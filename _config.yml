@@ -1,0 +1,18 @@
+typography_spectrum: 0.9401997134768136
+color:
+  brandStrength: 0.6884007840331571
+  lightness: 1
+  saturation: 0.42967043834867524
+  rhythmicContrast: 1
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+github: true
+layout_spectrum: 0.7165732007652594
+name: caliper
+title: Caliper
+content: []
+description: ''

@@ -68,9 +68,9 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=tS8s7cBqfK0&list=PLB2CD92050E0F9B8E&index=76'
 title: The Awakening - The Sound of Silence
-datePublished: '2016-12-13T17:07:17.085Z'
-dateModified: '2016-12-13T17:07:15.271Z'
-datePublishedOriginal: '2016-12-13T17:07:17.085Z'
+datePublished: '2016-12-13T17:09:45.347Z'
+dateModified: '2016-12-13T17:08:46.425Z'
+datePublishedOriginal: '2016-12-13T17:09:45.347Z'
 via: {}
 inFeed: true
 starred: false

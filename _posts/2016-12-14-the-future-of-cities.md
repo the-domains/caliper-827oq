@@ -44,9 +44,9 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/195304295'
 title: The Future of Cities
-datePublished: '2016-12-14T14:31:11.272Z'
-dateModified: '2016-12-14T13:36:41.085Z'
-datePublishedOriginal: '2016-12-14T14:31:11.272Z'
+datePublished: '2016-12-14T14:34:21.798Z'
+dateModified: '2016-12-14T13:40:07.066Z'
+datePublishedOriginal: '2016-12-14T14:34:21.798Z'
 via: {}
 inFeed: true
 starred: false

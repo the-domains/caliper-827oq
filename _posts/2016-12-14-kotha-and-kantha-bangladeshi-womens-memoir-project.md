@@ -42,9 +42,9 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/194820918'
 title: 'Kotha and Kantha: Bangladeshi Women''s Memoir Project'
-datePublished: '2016-12-14T14:31:09.916Z'
-dateModified: '2016-12-14T13:47:17.634Z'
-datePublishedOriginal: '2016-12-14T14:31:09.916Z'
+datePublished: '2016-12-14T14:31:11.279Z'
+dateModified: '2016-12-14T13:36:52.829Z'
+datePublishedOriginal: '2016-12-14T14:31:11.279Z'
 via: {}
 inFeed: true
 starred: false

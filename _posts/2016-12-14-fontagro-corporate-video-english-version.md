@@ -40,9 +40,9 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/191539914'
 title: FONTAGRO CORPORATE VIDEO - ENGLISH VERSION
-datePublished: '2016-12-14T14:31:09.918Z'
+datePublished: '2016-12-14T14:34:21.799Z'
 dateModified: '2016-12-14T13:47:11.522Z'
-datePublishedOriginal: '2016-12-14T14:31:09.918Z'
+datePublishedOriginal: '2016-12-14T14:34:21.799Z'
 via: {}
 inFeed: true
 starred: false

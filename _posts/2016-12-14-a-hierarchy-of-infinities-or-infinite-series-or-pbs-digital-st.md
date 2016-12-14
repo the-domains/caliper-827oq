@@ -44,9 +44,9 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/195450174'
 title: A Hierarchy of Infinities | Infinite Series | PBS Digital Studios
-datePublished: '2016-12-14T14:31:11.278Z'
+datePublished: '2016-12-14T14:34:55.311Z'
 dateModified: '2016-12-14T13:36:10.458Z'
-datePublishedOriginal: '2016-12-14T14:31:11.278Z'
+datePublishedOriginal: '2016-12-14T14:34:55.311Z'
 via: {}
 inFeed: true
 starred: false

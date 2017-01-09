@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: 'https://github.com/the-grid/stories/issues/243'
-dateModified: '2017-01-09T19:43:30.065Z'
-datePublished: '2017-01-09T19:43:32.648Z'
+dateModified: '2017-01-09T19:43:42.934Z'
+datePublished: '2017-01-09T19:43:44.659Z'
 title: Trying to reproduce story 243
 author: []
 publisher: {}
 via: {}
 hasPage: true
 starred: false
-datePublishedOriginal: '2017-01-09T19:43:32.648Z'
+datePublishedOriginal: '2017-01-09T19:43:40.526Z'
 sourcePath: _posts/2017-01-09-trying-to-reproduce-story-243.md
 url: trying-to-reproduce-story-243/index.html
 _type: Article
@@ -27,7 +27,7 @@ _type: Article
 
 # We don't have custom components for it
 
-<article style=""><h1>Sailing with schooner Helena</h1><p>Returning to Helena for the first time after the Atlantic crossing was lovely. The boat felt like home immediately. Thought when the opportunity arose, I did not go sleep in the bow cabin, but upgraded more to the center. I was not ready to handle the recollection of the stale air and the roller coaster ride of the Atlantic swell.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/54cd1ac613f96a258d1715f741e599ac09307b5d.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/54cd1ac613f96a258d1715f741e599ac09307b5d.jpg" /><h1>Sailing with schooner Helena</h1><p>Returning to Helena for the first time after the Atlantic crossing was lovely. The boat felt like home immediately. Thought when the opportunity arose, I did not go sleep in the bow cabin, but upgraded more to the center. I was not ready to handle the recollection of the stale air and the roller coaster ride of the Atlantic swell.</p></article>
 
 # But links should always work
 

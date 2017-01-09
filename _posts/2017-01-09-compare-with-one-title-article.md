@@ -6,8 +6,8 @@ description: >-
   not go sleep in the bow cabin, but upgraded more to the center. I was not
   ready to handle the recollection of the stale air and the roller coaster ride
   of the Atlantic swell.
-dateModified: '2017-01-09T20:07:15.986Z'
-datePublished: '2017-01-09T20:07:18.878Z'
+dateModified: '2017-01-09T20:26:42.419Z'
+datePublished: '2017-01-09T20:26:50.240Z'
 title: Compare with one title article
 author: []
 publisher: {}

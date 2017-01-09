@@ -41,15 +41,16 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/191034951'
 title: Postdoc Blues
-datePublished: '2017-01-09T19:54:08.805Z'
-dateModified: '2017-01-09T19:54:03.689Z'
+datePublished: '2017-01-09T19:56:26.828Z'
+dateModified: '2017-01-09T19:56:24.535Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-13-postdoc-blues.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2016-12-13T15:47:24.504Z'
+url: postdoc-blues/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 

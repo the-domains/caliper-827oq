@@ -28,13 +28,13 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://thegrid.ai/towards-liveaboard/sailing-with-schooner-helena'
 title: Sailing with schooner Helena
-datePublished: '2017-01-09T20:34:32.653Z'
-dateModified: '2017-01-09T20:33:53.251Z'
-datePublishedOriginal: '2017-01-09T20:34:32.653Z'
+datePublished: '2017-01-09T20:35:48.367Z'
+dateModified: '2017-01-09T20:35:41.701Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-01-09-sailing-with-schooner-helena.md
+starred: false
+datePublishedOriginal: '2017-01-09T20:34:32.653Z'
 _context: 'http://schema.org'
 _type: MediaObject
 

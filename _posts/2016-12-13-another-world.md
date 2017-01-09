@@ -43,8 +43,8 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/190347997'
 title: Another World
-datePublished: '2017-01-09T19:50:00.874Z'
-dateModified: '2017-01-09T19:49:52.346Z'
+datePublished: '2017-01-09T20:26:50.281Z'
+dateModified: '2017-01-09T20:26:42.419Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-13-another-world.md

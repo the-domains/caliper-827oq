@@ -65,8 +65,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=YJVoJY7OZVo'
 title: 'Summer Nights: A Perfect evening on the Common'
-datePublished: '2017-01-09T20:26:50.262Z'
-dateModified: '2017-01-09T20:26:42.419Z'
+datePublished: '2017-01-09T20:35:48.384Z'
+dateModified: '2017-01-09T20:35:41.701Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-13-summer-nights-a-perfect-evening-on-the-common.md

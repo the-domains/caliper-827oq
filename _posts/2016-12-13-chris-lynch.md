@@ -2,8 +2,9 @@
 author:
   - avatar:
       src: >-
+        https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e7cc3dbe874de4bc9094335b2eb4725dba807bc
+      original: >-
         https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/484c16f5958d1737d891bc2c534dbf06/noop?input=https%3A%2F%2Fi.vimeocdn.com%2Fportrait%2F9286445_640x640
-      original: 'https://i.vimeocdn.com/portrait/9286445_640x640'
       width: 640
       height: 640
       colors:
@@ -61,8 +62,8 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/clynchfilm'
 title: Chris Lynch
-datePublished: '2016-12-13T15:48:24.000Z'
-dateModified: '2016-12-13T15:48:21.247Z'
+datePublished: '2017-01-09T19:50:00.866Z'
+dateModified: '2017-01-09T19:49:52.346Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-13-chris-lynch.md

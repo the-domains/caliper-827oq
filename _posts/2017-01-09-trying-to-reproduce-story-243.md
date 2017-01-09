@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'https://github.com/the-grid/stories/issues/243'
-dateModified: '2017-01-09T20:31:54.511Z'
-datePublished: '2017-01-09T20:31:55.347Z'
+dateModified: '2017-01-09T20:35:41.701Z'
+datePublished: '2017-01-09T20:35:48.336Z'
 title: Trying to reproduce story 243
 author: []
 publisher: {}

@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: 'https://github.com/the-grid/stories/issues/243'
-dateModified: '2017-01-09T19:43:42.934Z'
-datePublished: '2017-01-09T19:43:44.659Z'
+dateModified: '2017-01-09T19:49:52.346Z'
+datePublished: '2017-01-09T19:50:00.875Z'
 title: Trying to reproduce story 243
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-01-09-trying-to-reproduce-story-243.md
 starred: false
 datePublishedOriginal: '2017-01-09T19:43:40.526Z'
-sourcePath: _posts/2017-01-09-trying-to-reproduce-story-243.md
 url: trying-to-reproduce-story-243/index.html
 _type: Article
 

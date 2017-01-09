@@ -6,8 +6,8 @@ description: >-
   not go sleep in the bow cabin, but upgraded more to the center. I was not
   ready to handle the recollection of the stale air and the roller coaster ride
   of the Atlantic swell.
-dateModified: '2017-01-09T20:26:42.419Z'
-datePublished: '2017-01-09T20:26:50.240Z'
+dateModified: '2017-01-09T20:31:28.028Z'
+datePublished: '2017-01-09T20:31:29.285Z'
 title: Compare with one title article
 author: []
 publisher: {}
@@ -23,5 +23,3 @@ _type: Article
 # Compare with one title article
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/54cd1ac613f96a258d1715f741e599ac09307b5d.jpg" /><h1>Sailing with schooner Helena</h1><p>Returning to Helena for the first time after the Atlantic crossing was lovely. The boat felt like home immediately. Thought when the opportunity arose, I did not go sleep in the bow cabin, but upgraded more to the center. I was not ready to handle the recollection of the stale air and the roller coaster ride of the Atlantic swell.</p></article>
-
----

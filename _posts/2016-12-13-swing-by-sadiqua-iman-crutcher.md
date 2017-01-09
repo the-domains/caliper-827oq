@@ -14,8 +14,8 @@ description: ''
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=ydcILCGVREQ'
 title: 'Swing, by Sadiqua Iman Crutcher'
-datePublished: '2017-01-09T20:26:50.284Z'
-dateModified: '2017-01-09T20:26:42.419Z'
+datePublished: '2017-01-09T20:35:48.377Z'
+dateModified: '2017-01-09T20:35:41.701Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-13-swing-by-sadiqua-iman-crutcher.md

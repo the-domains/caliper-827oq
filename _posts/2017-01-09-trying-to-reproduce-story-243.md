@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'https://github.com/the-grid/stories/issues/243'
-dateModified: '2017-01-09T19:58:46.046Z'
-datePublished: '2017-01-09T19:58:49.184Z'
+dateModified: '2017-01-09T19:58:59.112Z'
+datePublished: '2017-01-09T19:59:01.254Z'
 title: Trying to reproduce story 243
 author: []
 publisher: {}
@@ -30,3 +30,5 @@ _type: Article
 # But links should always work
 
 > https://thegrid.ai/towards-liveaboard/sailing-with-schooner-helena
+
+---

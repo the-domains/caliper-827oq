@@ -42,8 +42,8 @@ app_links:
     name: Vimeo
     id: com.vimeo.android.videoapp
 title: Postdoc Blues
-datePublished: '2017-01-09T20:26:50.250Z'
-dateModified: '2017-01-09T20:26:42.419Z'
+datePublished: '2017-01-09T20:35:48.300Z'
+dateModified: '2017-01-09T20:35:41.701Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-13-postdoc-blues.md

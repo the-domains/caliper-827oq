@@ -13,10 +13,6 @@ color:
 github: true
 layout_spectrum: 0.7165732007652594
 name: caliper
-navigation:
-  - name: Testing nav
-    id: acb628c5-2d27-4aab-8946-0e6caac6f475
-    type: content
 title: Caliper
 content: []
 description: ''

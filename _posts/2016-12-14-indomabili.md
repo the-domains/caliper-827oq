@@ -44,13 +44,13 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/195306154'
 title: INDOMABILI
-datePublished: '2016-12-14T16:19:16.175Z'
-dateModified: '2016-12-14T16:19:02.733Z'
-datePublishedOriginal: '2016-12-14T16:19:16.175Z'
+datePublished: '2017-01-10T20:09:13.512Z'
+dateModified: '2017-01-10T20:09:03.942Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2016-12-14-indomabili.md
+starred: false
+datePublishedOriginal: '2016-12-14T16:19:16.175Z'
 _type: VideoObject
 _context: 'http://schema.org'
 

@@ -43,13 +43,13 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/169598313'
 title: Valley Of A Thousand Hills
-datePublished: '2016-12-14T14:34:02.059Z'
-dateModified: '2016-12-14T14:27:51.014Z'
-datePublishedOriginal: '2016-12-14T14:34:02.059Z'
+datePublished: '2017-01-10T20:09:13.628Z'
+dateModified: '2017-01-10T20:09:03.942Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2016-12-14-valley-of-a-thousand-hills.md
+starred: false
+datePublishedOriginal: '2016-12-14T14:34:02.059Z'
 _type: VideoObject
 _context: 'http://schema.org'
 

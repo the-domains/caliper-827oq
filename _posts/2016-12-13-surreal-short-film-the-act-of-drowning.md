@@ -41,15 +41,16 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/195102710'
 title: Surreal Short Film - The Act Of Drowning
-datePublished: '2017-01-09T20:35:48.316Z'
-dateModified: '2017-01-09T20:35:41.701Z'
+datePublished: '2017-01-10T17:49:21.191Z'
+dateModified: '2017-01-10T17:49:20.328Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-13-surreal-short-film-the-act-of-drowning.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2016-12-13T15:46:49.360Z'
+url: surreal-short-film-the-act-of-drowning/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 

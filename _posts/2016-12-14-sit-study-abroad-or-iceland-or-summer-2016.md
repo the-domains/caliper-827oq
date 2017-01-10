@@ -45,13 +45,13 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/192467258'
 title: SIT Study Abroad | Iceland | Summer 2016
-datePublished: '2016-12-14T14:34:02.064Z'
-dateModified: '2016-12-14T14:25:20.705Z'
-datePublishedOriginal: '2016-12-14T14:34:02.064Z'
+datePublished: '2017-01-10T20:09:13.629Z'
+dateModified: '2017-01-10T20:09:03.942Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2016-12-14-sit-study-abroad-or-iceland-or-summer-2016.md
+starred: false
+datePublishedOriginal: '2016-12-14T14:34:02.064Z'
 _type: VideoObject
 _context: 'http://schema.org'
 

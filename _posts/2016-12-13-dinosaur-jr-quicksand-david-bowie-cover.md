@@ -64,8 +64,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=-3zDlA-Xnxs'
 title: Dinosaur Jr. - Quicksand (David Bowie cover)
-datePublished: '2017-01-09T20:35:48.386Z'
-dateModified: '2017-01-09T20:35:41.701Z'
+datePublished: '2017-01-10T20:09:13.580Z'
+dateModified: '2017-01-10T20:09:03.942Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-13-dinosaur-jr-quicksand-david-bowie-cover.md

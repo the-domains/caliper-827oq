@@ -42,13 +42,13 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/195787847'
 title: Night In The Woods Trailer
-datePublished: '2016-12-15T23:25:12.741Z'
-dateModified: '2016-12-15T23:25:01.463Z'
-datePublishedOriginal: '2016-12-15T23:25:12.741Z'
+datePublished: '2017-01-10T20:09:13.597Z'
+dateModified: '2017-01-10T20:09:03.942Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2016-12-15-night-in-the-woods-trailer.md
+starred: false
+datePublishedOriginal: '2016-12-15T23:25:12.741Z'
 _type: VideoObject
 _context: 'http://schema.org'
 

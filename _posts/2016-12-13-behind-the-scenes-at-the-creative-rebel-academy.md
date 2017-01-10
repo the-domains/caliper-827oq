@@ -18,8 +18,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=E9iPyuD6iwI'
 title: Behind the Scenes at the Creative Rebel Academy
-datePublished: '2017-01-09T20:35:48.335Z'
-dateModified: '2017-01-09T20:35:41.701Z'
+datePublished: '2017-01-10T20:09:13.429Z'
+dateModified: '2017-01-10T20:09:03.942Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-13-behind-the-scenes-at-the-creative-rebel-academy.md

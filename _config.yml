@@ -1,9 +1,10 @@
-typography_spectrum: 0.9401997134768136
+layout_spectrum: 0.4700821136187135
+typography_spectrum: 0.9405588950105195
 color:
-  brandStrength: 0.6884007840331571
-  lightness: 1
-  saturation: 0.42967043834867524
-  rhythmicContrast: 1
+  brandStrength: 0.6803006076232743
+  lightness: 0.9938602410073364
+  saturation: 0.4200551693754658
+  rhythmicContrast: 0.9965674495509835
   brandColors:
     - '#E6E2AF'
     - '#A7A37E'
@@ -11,7 +12,6 @@ color:
     - '#046380'
     - '#002F2F'
 github: true
-layout_spectrum: 0.7165732007652594
 name: caliper
 navigation:
   - name: Add new nav

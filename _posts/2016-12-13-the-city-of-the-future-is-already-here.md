@@ -45,8 +45,8 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/185808340'
 title: The City of the Future Is Already Here
-datePublished: '2017-01-09T20:35:48.370Z'
-dateModified: '2017-01-09T20:35:41.701Z'
+datePublished: '2017-01-10T20:09:13.596Z'
+dateModified: '2017-01-10T20:09:03.942Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-13-the-city-of-the-future-is-already-here.md

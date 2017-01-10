@@ -45,13 +45,13 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/lammbock/martinstag2016'
 title: Martinstag 2016 bei den Niddehöde Jonge
-datePublished: '2016-12-14T14:34:55.284Z'
-dateModified: '2016-12-14T13:37:00.466Z'
-datePublishedOriginal: '2016-12-14T14:34:55.284Z'
+datePublished: '2017-01-10T20:09:13.630Z'
+dateModified: '2017-01-10T20:09:03.942Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2016-12-14-martinstag-2016-bei-den-niddehode-jonge.md
+starred: false
+datePublishedOriginal: '2016-12-14T14:34:21.724Z'
 _type: VideoObject
 _context: 'http://schema.org'
 

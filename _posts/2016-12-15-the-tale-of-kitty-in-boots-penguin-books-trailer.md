@@ -42,13 +42,13 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/195627729'
 title: '''The Tale of Kitty in Boots''- Penguin Books Trailer'
-datePublished: '2016-12-15T23:25:26.530Z'
-dateModified: '2016-12-15T23:25:09.501Z'
-datePublishedOriginal: '2016-12-15T23:25:26.530Z'
+datePublished: '2017-01-10T20:09:13.627Z'
+dateModified: '2017-01-10T20:09:03.942Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2016-12-15-the-tale-of-kitty-in-boots-penguin-books-trailer.md
+starred: false
+datePublishedOriginal: '2016-12-15T23:25:26.530Z'
 _type: VideoObject
 _context: 'http://schema.org'
 

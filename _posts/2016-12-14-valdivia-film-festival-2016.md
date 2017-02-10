@@ -44,13 +44,13 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/195191078'
 title: Valdivia Film Festival 2016
-datePublished: '2016-12-14T14:34:55.262Z'
-dateModified: '2016-12-14T13:37:09.516Z'
-datePublishedOriginal: '2016-12-14T14:34:55.262Z'
+datePublished: '2017-02-10T12:23:54.311Z'
+dateModified: '2017-02-10T12:23:39.832Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2016-12-14-valdivia-film-festival-2016.md
+starred: false
+datePublishedOriginal: '2016-12-14T14:34:55.262Z'
 _type: VideoObject
 _context: 'http://schema.org'
 

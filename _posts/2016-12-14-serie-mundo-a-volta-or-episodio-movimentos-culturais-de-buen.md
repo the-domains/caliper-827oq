@@ -45,8 +45,8 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/193886821'
 title: 'Série Mundo à Volta | Episódio: Movimentos Culturais de Buenos Aires'
-datePublished: '2017-01-10T20:09:13.639Z'
-dateModified: '2017-01-10T20:09:03.942Z'
+datePublished: '2017-02-10T12:23:52.798Z'
+dateModified: '2017-02-10T12:23:39.832Z'
 via: {}
 inFeed: true
 sourcePath: >-

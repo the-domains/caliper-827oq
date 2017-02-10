@@ -64,8 +64,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=WEVasYKM574'
 title: The Soul Revue
-datePublished: '2017-02-10T12:23:51.938Z'
-dateModified: '2017-02-10T12:23:39.832Z'
+datePublished: '2017-02-10T14:21:57.001Z'
+dateModified: '2017-02-10T14:21:49.860Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-13-the-soul-revue.md

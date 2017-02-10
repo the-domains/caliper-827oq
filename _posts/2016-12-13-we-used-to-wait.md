@@ -4,8 +4,9 @@ author:
     url: 'https://vimeo.com/shawnhnichols'
     avatar:
       src: >-
+        https://s3-us-west-2.amazonaws.com/the-grid-img/p/0d5d34f5664bfa0d10df7d780107c7c41f0747a4.jpg
+      original: >-
         https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/30b153cf477a147f691fe09b6a067612/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F607038104_640.jpg
-      original: 'https://i.vimeocdn.com/video/607038104_640.jpg'
       width: 640
       height: 640
       colors:
@@ -61,13 +62,13 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/194946742'
 title: We Used to Wait
-datePublished: '2016-12-13T16:51:57.795Z'
-dateModified: '2016-12-13T16:51:29.012Z'
-datePublishedOriginal: '2016-12-13T16:51:57.795Z'
+datePublished: '2017-02-10T12:23:55.884Z'
+dateModified: '2017-02-10T12:23:39.832Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2016-12-13-we-used-to-wait.md
+starred: false
+datePublishedOriginal: '2016-12-13T16:51:57.795Z'
 _type: VideoObject
 _context: 'http://schema.org'
 

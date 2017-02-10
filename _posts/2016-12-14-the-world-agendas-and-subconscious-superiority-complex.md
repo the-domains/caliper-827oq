@@ -46,8 +46,8 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/195321210'
 title: The World Agenda(s) and Subconscious Superiority Complex
-datePublished: '2017-02-10T12:23:54.257Z'
-dateModified: '2017-02-10T12:23:39.832Z'
+datePublished: '2017-02-10T14:21:59.082Z'
+dateModified: '2017-02-10T14:21:49.860Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-14-the-world-agendas-and-subconscious-superiority-complex.md

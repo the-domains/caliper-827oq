@@ -40,8 +40,8 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/194526670'
 title: Crowmotion Showreel 2017
-datePublished: '2017-01-10T20:20:10.056Z'
-dateModified: '2017-01-10T20:19:56.374Z'
+datePublished: '2017-02-10T12:23:48.938Z'
+dateModified: '2017-02-10T12:23:39.832Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-13-crowmotion-showreel-2017.md

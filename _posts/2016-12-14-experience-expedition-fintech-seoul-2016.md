@@ -41,8 +41,8 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/gannaca/seoul'
 title: EXPERIENCE EXPEDITION Fintech Seoul 2016
-datePublished: '2017-01-10T20:09:13.628Z'
-dateModified: '2017-01-10T20:09:03.942Z'
+datePublished: '2017-02-10T12:23:53.397Z'
+dateModified: '2017-02-10T12:23:39.832Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-14-experience-expedition-fintech-seoul-2016.md

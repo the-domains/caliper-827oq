@@ -16,8 +16,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=f3kFTRAabB0'
 title: Grupo Experimental de Dança - Poema
-datePublished: '2017-02-10T12:23:56.261Z'
-dateModified: '2017-02-10T12:23:39.832Z'
+datePublished: '2017-02-10T14:22:00.958Z'
+dateModified: '2017-02-10T14:21:49.860Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-13-grupo-experimental-de-danca-poema.md

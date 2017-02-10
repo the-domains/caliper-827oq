@@ -46,8 +46,8 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/195507138'
 title: LAS CANDELAS DE LA PUEBLA DE LOS INFANTES
-datePublished: '2017-02-10T12:23:55.533Z'
-dateModified: '2017-02-10T12:23:39.832Z'
+datePublished: '2017-02-10T14:21:59.991Z'
+dateModified: '2017-02-10T14:21:49.860Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-14-las-candelas-de-la-puebla-de-los-infantes.md

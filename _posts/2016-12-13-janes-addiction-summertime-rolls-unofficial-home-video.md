@@ -59,8 +59,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=YIY2le7MLsE'
 title: Jane's Addiction - Summertime Rolls (unofficial home video)
-datePublished: '2017-02-10T12:23:51.552Z'
-dateModified: '2017-02-10T12:23:39.832Z'
+datePublished: '2017-02-10T14:21:56.881Z'
+dateModified: '2017-02-10T14:21:49.860Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-13-janes-addiction-summertime-rolls-unofficial-home-video.md

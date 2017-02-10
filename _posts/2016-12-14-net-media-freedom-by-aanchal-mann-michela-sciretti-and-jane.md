@@ -42,14 +42,14 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/195433869'
 title: 'Net Media Freedom by Aanchal Mann, Michela Sciretti and Jane Owino'
-datePublished: '2016-12-14T14:34:55.312Z'
-dateModified: '2016-12-14T13:36:01.086Z'
-datePublishedOriginal: '2016-12-14T14:34:55.312Z'
+datePublished: '2017-02-10T12:23:55.078Z'
+dateModified: '2017-02-10T12:23:39.832Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2016-12-14-net-media-freedom-by-aanchal-mann-michela-sciretti-and-jane.md
+starred: false
+datePublishedOriginal: '2016-12-14T14:34:55.312Z'
 _type: VideoObject
 _context: 'http://schema.org'
 

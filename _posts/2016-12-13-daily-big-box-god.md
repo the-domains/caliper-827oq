@@ -6,7 +6,7 @@ author:
       src: >-
         https://s3-us-west-2.amazonaws.com/the-grid-img/p/7177b80c298a8d7e3b4607d3d201300724565cc3.jpg
       original: >-
-        https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/0b3a2bda77f1de8b0451a54cd6f85fa3/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F607422266.jpg%3Fmw%3D1920%26mh%3D1080%26q%3D70
+        https://s3-us-west-2.amazonaws.com/the-grid-img/p/7177b80c298a8d7e3b4607d3d201300724565cc3.jpg
       width: 500
       height: 500
       colors:
@@ -62,8 +62,8 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/195260430'
 title: Daily - Big Box God
-datePublished: '2017-02-10T12:23:56.321Z'
-dateModified: '2017-02-10T12:23:39.832Z'
+datePublished: '2017-02-10T14:22:01.420Z'
+dateModified: '2017-02-10T14:21:49.860Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-13-daily-big-box-god.md

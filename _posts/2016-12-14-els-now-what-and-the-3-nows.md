@@ -45,13 +45,13 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/193788582'
 title: El's "Now What?" and the 3 Now's
-datePublished: '2016-12-14T13:48:42.314Z'
-dateModified: '2016-12-14T13:47:26.770Z'
-datePublishedOriginal: '2016-12-14T13:48:42.314Z'
+datePublished: '2017-02-10T12:23:53.576Z'
+dateModified: '2017-02-10T12:23:39.832Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2016-12-14-els-now-what-and-the-3-nows.md
+starred: false
+datePublishedOriginal: '2016-12-14T13:48:42.314Z'
 _type: VideoObject
 _context: 'http://schema.org'
 

@@ -45,13 +45,13 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/194701535'
 title: And There The Waves
-datePublished: '2016-12-13T16:51:10.037Z'
-dateModified: '2016-12-13T16:50:51.876Z'
-datePublishedOriginal: '2016-12-13T16:51:10.037Z'
+datePublished: '2017-02-10T12:23:55.993Z'
+dateModified: '2017-02-10T12:23:39.832Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2016-12-13-and-there-the-waves.md
+starred: false
+datePublishedOriginal: '2016-12-13T16:51:10.037Z'
 _type: VideoObject
 _context: 'http://schema.org'
 

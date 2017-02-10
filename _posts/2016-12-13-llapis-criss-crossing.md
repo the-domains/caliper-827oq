@@ -44,13 +44,13 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/194562267'
 title: Llapis Criss-Crossing
-datePublished: '2016-12-13T16:52:04.528Z'
-dateModified: '2016-12-13T16:51:42.776Z'
-datePublishedOriginal: '2016-12-13T16:52:04.528Z'
+datePublished: '2017-02-10T12:23:55.880Z'
+dateModified: '2017-02-10T12:23:39.832Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2016-12-13-llapis-criss-crossing.md
+starred: false
+datePublishedOriginal: '2016-12-13T16:52:04.528Z'
 _type: VideoObject
 _context: 'http://schema.org'
 

@@ -42,8 +42,8 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/195215940'
 title: expressing
-datePublished: '2017-02-10T12:23:55.898Z'
-dateModified: '2017-02-10T12:23:39.832Z'
+datePublished: '2017-02-10T14:22:00.911Z'
+dateModified: '2017-02-10T14:21:49.860Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-13-expressing.md

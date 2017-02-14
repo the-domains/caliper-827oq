@@ -61,8 +61,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=WScUQ9-3G9k'
 title: Creative Lab
-datePublished: '2017-02-10T14:21:55.805Z'
-dateModified: '2017-02-10T14:21:49.860Z'
+datePublished: '2017-02-14T15:58:58.730Z'
+dateModified: '2017-02-14T15:58:38.814Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-13-creative-lab.md

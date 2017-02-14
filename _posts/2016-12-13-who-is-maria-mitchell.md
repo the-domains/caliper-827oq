@@ -20,8 +20,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=BK6wMvNLvOw'
 title: Who is Maria Mitchell?
-datePublished: '2017-02-10T14:22:01.991Z'
-dateModified: '2017-02-10T14:21:49.860Z'
+datePublished: '2017-02-14T15:59:08.627Z'
+dateModified: '2017-02-14T15:58:38.814Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-13-who-is-maria-mitchell.md

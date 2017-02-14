@@ -13,8 +13,8 @@ description: >-
   sodales velit eget ante facilisis venenatis. Mauris eget facilisis risus.
   Fusce in pretium elit. Donec pellentesque facilisis scelerisque. Integer vel
   feugiat dui, non pharetra arcu.
-dateModified: '2017-02-14T16:19:27.631Z'
-datePublished: '2017-02-14T16:19:28.365Z'
+dateModified: '2017-02-14T16:21:19.860Z'
+datePublished: '2017-02-14T16:21:20.374Z'
 title: Testing a fallback article page
 author: []
 publisher: {}
@@ -37,9 +37,6 @@ Sed mauris massa, tincidunt vitae venenatis mattis, suscipit ac lacus. Sed volut
 ---
 
 ![Second image description](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc8a866a-3019-4fd7-8950-17edbe5fca89.jpg)
-
----
-
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c985ce56-262b-4eef-91a5-56dc960b2207.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9ea9c30-b7a5-44ff-a860-e0fd36e464ed.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/34928774-435b-4cc6-ad4f-aee171327c84.jpg)

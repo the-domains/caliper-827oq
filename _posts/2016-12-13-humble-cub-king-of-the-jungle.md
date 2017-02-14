@@ -65,8 +65,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=T3bMWEdXA4E'
 title: 'Humble Cub, King of the Jungle'
-datePublished: '2017-02-10T14:21:57.062Z'
-dateModified: '2017-02-10T14:21:49.860Z'
+datePublished: '2017-02-14T15:59:01.398Z'
+dateModified: '2017-02-14T15:58:38.814Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-13-humble-cub-king-of-the-jungle.md

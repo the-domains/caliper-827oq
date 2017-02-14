@@ -46,8 +46,8 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/192793980'
 title: We want arthouse cinema in...
-datePublished: '2017-02-10T14:21:57.575Z'
-dateModified: '2017-02-10T14:21:49.860Z'
+datePublished: '2017-02-14T15:59:02.206Z'
+dateModified: '2017-02-14T15:58:38.814Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-14-we-want-arthouse-cinema-in.md

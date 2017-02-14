@@ -13,16 +13,16 @@ description: >-
   sodales velit eget ante facilisis venenatis. Mauris eget facilisis risus.
   Fusce in pretium elit. Donec pellentesque facilisis scelerisque. Integer vel
   feugiat dui, non pharetra arcu.
-dateModified: '2017-02-14T15:53:34.303Z'
-datePublished: '2017-02-14T15:53:35.045Z'
+dateModified: '2017-02-14T15:57:46.704Z'
+datePublished: '2017-02-14T15:57:48.409Z'
 title: Testing a fallback article page
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-02-14-testing-a-fallback-article-page.md
 starred: false
 datePublishedOriginal: '2017-02-14T15:53:35.045Z'
-sourcePath: _posts/2017-02-14-testing-a-fallback-article-page.md
 url: testing-a-fallback-article-page/index.html
 _type: Article
 

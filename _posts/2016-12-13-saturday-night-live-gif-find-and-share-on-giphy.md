@@ -24,8 +24,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://giphy.com/gifs/snl-saturday-night-live-holiday-3oriOef2n8Y5NDARMs'
 title: Saturday Night Live GIF - Find & Share on GIPHY
-datePublished: '2017-02-10T14:22:01.261Z'
-dateModified: '2017-02-10T14:21:49.860Z'
+datePublished: '2017-02-14T15:59:07.701Z'
+dateModified: '2017-02-14T15:58:38.814Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-13-saturday-night-live-gif-find-and-share-on-giphy.md

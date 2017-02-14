@@ -45,8 +45,8 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/194701535'
 title: And There The Waves
-datePublished: '2017-02-10T14:22:00.806Z'
-dateModified: '2017-02-10T14:21:49.860Z'
+datePublished: '2017-02-14T15:59:06.948Z'
+dateModified: '2017-02-14T15:58:38.814Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-13-and-there-the-waves.md

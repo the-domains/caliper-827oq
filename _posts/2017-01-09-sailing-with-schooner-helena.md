@@ -27,8 +27,8 @@ description: >-
 inLanguage: en
 app_links: []
 title: Sailing with schooner Helena
-datePublished: '2017-02-10T14:21:55.071Z'
-dateModified: '2017-02-10T14:21:49.860Z'
+datePublished: '2017-02-14T15:58:57.985Z'
+dateModified: '2017-02-14T15:58:38.814Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-09-sailing-with-schooner-helena.md

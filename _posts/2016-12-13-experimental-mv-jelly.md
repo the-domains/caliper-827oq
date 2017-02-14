@@ -14,8 +14,8 @@ description: Uploaded by Shen Dieyi on 2016-12-13.
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=d1br5IUTtfw'
 title: Experimental MV "Jelly"
-datePublished: '2017-02-10T14:22:00.910Z'
-dateModified: '2017-02-10T14:21:49.860Z'
+datePublished: '2017-02-14T15:59:07.066Z'
+dateModified: '2017-02-14T15:58:38.814Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-13-experimental-mv-jelly.md

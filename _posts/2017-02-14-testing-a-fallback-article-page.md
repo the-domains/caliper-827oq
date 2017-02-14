@@ -13,8 +13,8 @@ description: >-
   sodales velit eget ante facilisis venenatis. Mauris eget facilisis risus.
   Fusce in pretium elit. Donec pellentesque facilisis scelerisque. Integer vel
   feugiat dui, non pharetra arcu.
-dateModified: '2017-02-14T15:58:38.814Z'
-datePublished: '2017-02-14T15:58:57.629Z'
+dateModified: '2017-02-14T16:14:21.883Z'
+datePublished: '2017-02-14T16:14:22.875Z'
 title: Testing a fallback article page
 author: []
 publisher: {}
@@ -28,17 +28,18 @@ _type: Article
 
 ---
 # Testing a fallback article page
-
----
-
 ![First image description](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9b4802d-e9db-434a-ac52-88a3dda8c6f8.jpg)
-![Second image description](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc8a866a-3019-4fd7-8950-17edbe5fca89.jpg)
-
----
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec maximus nisi eros, vel pretium velit luctus quis. Sed accumsan sollicitudin nulla ac posuere. Integer in nisl a risus porttitor blandit. Etiam sed metus id arcu posuere vestibulum. Pellentesque semper diam vitae erat lacinia, non ultricies lectus viverra. Phasellus sagittis, ligula in ornare ultricies, diam enim imperdiet nibh, et ultricies tellus lectus nec velit. Morbi pellentesque bibendum velit, pretium placerat risus congue venenatis. Sed arcu dolor, aliquet a ante eget, ornare laoreet sem. In gravida purus vel lectus iaculis, vel convallis ipsum tincidunt. Duis elementum lacinia molestie. Maecenas sodales velit eget ante facilisis venenatis. Mauris eget facilisis risus. Fusce in pretium elit. Donec pellentesque facilisis scelerisque. Integer vel feugiat dui, non pharetra arcu.
 
 Sed mauris massa, tincidunt vitae venenatis mattis, suscipit ac lacus. Sed volutpat sapien ligula, ac pretium justo vehicula eget. Ut congue sed metus eu scelerisque. Nunc ut tristique nisi. Donec blandit ultrices ultrices. Phasellus pellentesque eros lacus, vehicula eleifend libero hendrerit vel. Vestibulum erat nibh, faucibus ac massa ut, viverra commodo metus. In tempor, eros quis ultricies pretium, nisl risus dictum purus, sit amet rutrum tellus magna sed purus. In hac habitasse platea dictumst. Aliquam vitae commodo justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas ut nisl id purus commodo egestas viverra eu mauris. Proin ligula mi, lacinia vel venenatis ac, finibus vitae metus.
+
+---
+
+![Second image description](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc8a866a-3019-4fd7-8950-17edbe5fca89.jpg)
+
+---
+
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c985ce56-262b-4eef-91a5-56dc960b2207.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9ea9c30-b7a5-44ff-a860-e0fd36e464ed.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/34928774-435b-4cc6-ad4f-aee171327c84.jpg)

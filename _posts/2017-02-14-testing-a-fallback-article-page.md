@@ -14,7 +14,7 @@ description: >-
   Fusce in pretium elit. Donec pellentesque facilisis scelerisque. Integer vel
   feugiat dui, non pharetra arcu.
 dateModified: '2017-02-14T16:21:19.860Z'
-datePublished: '2017-02-14T16:21:20.374Z'
+datePublished: '2017-02-14T16:21:22.081Z'
 title: Testing a fallback article page
 author: []
 publisher: {}

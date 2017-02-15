@@ -61,8 +61,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=qIuIi6QT7V4'
 title: Creative works with paper
-datePublished: '2017-02-14T15:58:58.633Z'
-dateModified: '2017-02-14T15:58:38.814Z'
+datePublished: '2017-02-15T18:58:52.998Z'
+dateModified: '2017-02-15T18:58:46.127Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-13-creative-works-with-paper.md

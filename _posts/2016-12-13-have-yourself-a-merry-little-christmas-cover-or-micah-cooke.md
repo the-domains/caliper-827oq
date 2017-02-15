@@ -63,8 +63,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=0-FXSuFED04'
 title: Have Yourself A Merry Little Christmas (Cover) | Micah Cooke
-datePublished: '2017-02-14T15:59:08.282Z'
-dateModified: '2017-02-14T15:58:38.814Z'
+datePublished: '2017-02-15T18:59:08.450Z'
+dateModified: '2017-02-15T18:58:46.127Z'
 via: {}
 inFeed: true
 sourcePath: >-

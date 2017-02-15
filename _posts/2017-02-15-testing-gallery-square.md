@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: Testing Gallery-Square
-dateModified: '2017-02-15T18:58:46.127Z'
-datePublished: '2017-02-15T18:58:51.690Z'
+description: ''
+dateModified: '2017-02-15T19:10:37.555Z'
+datePublished: '2017-02-15T19:10:38.310Z'
 title: ''
 author: []
 publisher: {}
@@ -15,7 +15,6 @@ url: testing-gallery-square/index.html
 _type: Article
 
 ---
-Testing Gallery-Square
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f431c96e-f381-4d13-b239-2017c5f053de.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9c3f14e-493b-46c0-ab6c-d101bf5d0e2b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf6b4acd-0397-4f10-bbab-c84c563dee36.jpg)

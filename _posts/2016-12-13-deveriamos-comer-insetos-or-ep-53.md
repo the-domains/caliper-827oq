@@ -21,8 +21,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=ftD7M5soIrI'
 title: Deveríamos Comer Insetos? | Ep. 53
-datePublished: '2017-02-14T15:58:59.010Z'
-dateModified: '2017-02-14T15:58:38.814Z'
+datePublished: '2017-02-15T18:58:53.283Z'
+dateModified: '2017-02-15T18:58:46.127Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-13-deveriamos-comer-insetos-or-ep-53.md

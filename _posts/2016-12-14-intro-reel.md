@@ -40,13 +40,13 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/195446417'
 title: INTRO REEL
-datePublished: '2017-02-15T18:59:01.957Z'
+datePublished: '2017-02-15T18:59:03.388Z'
 dateModified: '2017-02-15T18:58:46.127Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-14-intro-reel.md
 starred: false
-datePublishedOriginal: '2016-12-14T14:34:55.306Z'
+datePublishedOriginal: '2016-12-14T13:31:33.159Z'
 _type: VideoObject
 _context: 'http://schema.org'
 

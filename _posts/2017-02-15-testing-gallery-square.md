@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: Testing Gallery-Square
-dateModified: '2017-02-15T18:57:34.382Z'
-datePublished: '2017-02-15T18:57:35.126Z'
+dateModified: '2017-02-15T18:58:46.127Z'
+datePublished: '2017-02-15T18:58:51.690Z'
 title: ''
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-02-15-testing-gallery-square.md
 starred: false
 datePublishedOriginal: '2017-02-15T18:57:35.126Z'
-sourcePath: _posts/2017-02-15-testing-gallery-square.md
 url: testing-gallery-square/index.html
 _type: Article
 

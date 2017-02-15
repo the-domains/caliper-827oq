@@ -66,8 +66,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=mTbq069hUuU'
 title: China's 180-day space survival experiment set to conclude
-datePublished: '2017-02-14T15:58:59.546Z'
-dateModified: '2017-02-14T15:58:38.814Z'
+datePublished: '2017-02-15T18:58:54.195Z'
+dateModified: '2017-02-15T18:58:46.127Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-13-chinas-180-day-space-survival-experiment-set-to-conclude.md

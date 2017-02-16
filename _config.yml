@@ -14,7 +14,7 @@ color:
 github: true
 name: caliper
 navigation:
-  - name: Add new nav
+  - name: Nav 1
     id: 8d1af655-f2de-41c5-b017-f1fed5ac2e15
     type: content
 title: Caliper

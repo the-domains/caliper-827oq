@@ -47,8 +47,8 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/167238436'
 title: Between Two Waters - Seychelles Pavilion
-datePublished: '2017-02-15T18:58:54.089Z'
-dateModified: '2017-02-15T18:58:46.127Z'
+datePublished: '2017-02-16T16:48:37.113Z'
+dateModified: '2017-02-16T16:48:21.897Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-13-between-two-waters-seychelles-pavilion.md

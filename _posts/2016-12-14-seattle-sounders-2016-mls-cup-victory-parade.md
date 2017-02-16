@@ -42,13 +42,13 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/195568381'
 title: Seattle Sounders 2016 MLS Cup Victory Parade
-datePublished: '2017-02-15T18:59:03.211Z'
-dateModified: '2017-02-15T18:58:46.127Z'
+datePublished: '2017-02-16T16:48:42.294Z'
+dateModified: '2017-02-16T16:48:21.897Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-14-seattle-sounders-2016-mls-cup-victory-parade.md
 starred: false
-datePublishedOriginal: '2016-12-14T13:31:47.325Z'
+datePublishedOriginal: '2016-12-14T14:34:55.252Z'
 _type: VideoObject
 _context: 'http://schema.org'
 

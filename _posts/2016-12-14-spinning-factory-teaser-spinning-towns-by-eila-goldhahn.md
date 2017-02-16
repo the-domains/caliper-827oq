@@ -40,8 +40,8 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/192457945'
 title: Spinning Factory (teaser "Spinning Towns") by Eila Goldhahn
-datePublished: '2017-02-15T18:58:57.225Z'
-dateModified: '2017-02-15T18:58:46.127Z'
+datePublished: '2017-02-16T16:48:39.761Z'
+dateModified: '2017-02-16T16:48:21.897Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-14-spinning-factory-teaser-spinning-towns-by-eila-goldhahn.md

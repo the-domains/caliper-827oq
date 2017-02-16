@@ -44,8 +44,8 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/191688688'
 title: War Authority
-datePublished: '2017-02-15T18:59:00.105Z'
-dateModified: '2017-02-15T18:58:46.127Z'
+datePublished: '2017-02-16T16:48:41.796Z'
+dateModified: '2017-02-16T16:48:21.897Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-14-war-authority.md

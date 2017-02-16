@@ -44,4 +44,7 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: Testing content sharing
-purpose: []
+purpose:
+  - type: external
+    url: 'https://github.com/orgs/the-grid/projects/8'
+    label: 'https://github.com/orgs/the-grid/projects/8'

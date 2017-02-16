@@ -42,8 +42,8 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/195229482'
 title: 'Deep Learning: The Promise and the Peril'
-datePublished: '2017-02-15T18:59:00.700Z'
-dateModified: '2017-02-15T18:58:46.127Z'
+datePublished: '2017-02-16T16:48:41.340Z'
+dateModified: '2017-02-16T16:48:21.897Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-14-deep-learning-the-promise-and-the-peril.md

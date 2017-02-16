@@ -20,6 +20,9 @@ navigation:
   - name: Nav2
     id: b510b9e4-2913-41dc-9293-bf9656d4be65
     type: content
+  - name: Nav 3
+    id: 87464034-c6cf-4144-8a9d-4d0f3182be4e
+    type: content
 title: Caliper
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''

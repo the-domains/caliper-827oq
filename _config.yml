@@ -1,4 +1,3 @@
-layout_spectrum: 0.14869707540276988
 typography_spectrum: 0.6207597680669278
 color:
   brandStrength: 0.7136747887855082
@@ -12,10 +11,14 @@ color:
     - '#046380'
     - '#002F2F'
 github: true
+layout_spectrum: 0.14869707540276988
 name: caliper
 navigation:
   - name: Nav 1
     id: 8d1af655-f2de-41c5-b017-f1fed5ac2e15
+    type: content
+  - name: Nav2
+    id: b510b9e4-2913-41dc-9293-bf9656d4be65
     type: content
 title: Caliper
 content:
@@ -27,19 +30,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8165eb8-968a-4f81-9cf3-1a146fe6bb49.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''

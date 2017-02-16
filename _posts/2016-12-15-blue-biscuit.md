@@ -40,15 +40,16 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/195593176'
 title: Blue Biscuit
-datePublished: '2017-02-16T16:48:38.501Z'
-dateModified: '2017-02-16T16:48:21.897Z'
+datePublished: '2017-02-16T19:28:57.162Z'
+dateModified: '2017-02-16T19:28:56.272Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-15-blue-biscuit.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2016-12-15T23:25:38.979Z'
+url: blue-biscuit/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 

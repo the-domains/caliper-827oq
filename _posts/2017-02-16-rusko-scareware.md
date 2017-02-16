@@ -61,13 +61,13 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=y4cikEmEUms'
 title: Rusko - Scareware
-datePublished: '2017-02-16T16:47:29.923Z'
-dateModified: '2017-02-16T16:47:12.042Z'
-datePublishedOriginal: '2017-02-16T16:47:29.923Z'
+datePublished: '2017-02-16T16:48:33.650Z'
+dateModified: '2017-02-16T16:48:21.897Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-02-16-rusko-scareware.md
+starred: false
+datePublishedOriginal: '2017-02-16T16:47:29.923Z'
 _type: VideoObject
 _context: 'http://schema.org'
 

@@ -62,8 +62,8 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/clynchfilm'
 title: Chris Lynch
-datePublished: '2017-02-16T16:48:37.380Z'
-dateModified: '2017-02-16T16:48:21.897Z'
+datePublished: '2017-02-17T19:17:49.801Z'
+dateModified: '2017-02-17T19:17:33.050Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-13-chris-lynch.md

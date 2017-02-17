@@ -41,8 +41,8 @@ app_links:
     name: Vimeo
     id: com.vimeo.android.videoapp
 title: Blue Biscuit
-datePublished: '2017-02-16T19:28:57.162Z'
-dateModified: '2017-02-16T19:28:56.272Z'
+datePublished: '2017-02-17T19:17:51.330Z'
+dateModified: '2017-02-17T19:17:33.050Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-15-blue-biscuit.md

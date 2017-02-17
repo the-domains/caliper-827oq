@@ -42,8 +42,8 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/194434865'
 title: Trailer 100 Years Franklin Beauty School
-datePublished: '2017-02-16T16:48:39.810Z'
-dateModified: '2017-02-16T16:48:21.897Z'
+datePublished: '2017-02-17T19:17:53.403Z'
+dateModified: '2017-02-17T19:17:33.050Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-14-trailer-100-years-franklin-beauty-school.md

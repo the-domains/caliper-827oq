@@ -45,8 +45,8 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/193655152'
 title: Intel at 10nm ... a conversation with Mark Bohr of Intel
-datePublished: '2017-02-16T16:48:39.808Z'
-dateModified: '2017-02-16T16:48:21.897Z'
+datePublished: '2017-02-17T19:17:53.142Z'
+dateModified: '2017-02-17T19:17:33.050Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-14-intel-at-10nm-a-conversation-with-mark-bohr-of-intel.md

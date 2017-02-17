@@ -68,8 +68,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=1DVPDEyO3rQ'
 title: Supla - Parça da Erva (Clipe Oficial)
-datePublished: '2017-02-16T16:48:45.934Z'
-dateModified: '2017-02-16T16:48:21.897Z'
+datePublished: '2017-02-17T19:18:00.719Z'
+dateModified: '2017-02-17T19:17:33.050Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-13-supla-parca-da-erva-clipe-oficial.md

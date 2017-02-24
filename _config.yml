@@ -1,16 +1,16 @@
-layout_spectrum: 0.5849541789028646
-typography_spectrum: 0.6210495750754519
+layout_spectrum: 0.6057724262426358
+typography_spectrum: 0.6295546944850668
 color:
-  brandStrength: 0.4232250564015184
-  lightness: 0.010291237121189732
-  saturation: 0.17452268668819257
-  rhythmicContrast: 0.9166587293571286
+  brandStrength: 0.42114052638752697
+  lightness: 0.9462957771887799
+  saturation: 0.8784467346291288
+  rhythmicContrast: 0.9700736757093985
   brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
 github: true
 name: caliper
 navigation:

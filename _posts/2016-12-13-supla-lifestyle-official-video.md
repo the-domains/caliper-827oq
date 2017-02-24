@@ -62,8 +62,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=tX7umQvxGFU'
 title: SUPLA - LIFESTYLE (Official Video)
-datePublished: '2017-02-17T19:18:00.780Z'
-dateModified: '2017-02-17T19:17:33.050Z'
+datePublished: '2017-02-24T13:19:11.451Z'
+dateModified: '2017-02-24T13:18:55.721Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-13-supla-lifestyle-official-video.md

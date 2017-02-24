@@ -65,8 +65,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=Fyws0cAgh0I'
 title: 'the head and the heart, a night in tacoma'
-datePublished: '2017-02-17T19:18:00.260Z'
-dateModified: '2017-02-17T19:17:33.050Z'
+datePublished: '2017-02-24T13:19:11.153Z'
+dateModified: '2017-02-24T13:18:55.721Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-13-the-head-and-the-heart-a-night-in-tacoma.md

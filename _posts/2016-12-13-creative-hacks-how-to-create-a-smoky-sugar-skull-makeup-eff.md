@@ -66,8 +66,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=ePVjHf6qDvk'
 title: 'Creative Hacks: How to create a smoky sugar skull makeup effect'
-datePublished: '2017-02-24T13:19:03.902Z'
-dateModified: '2017-02-24T13:18:55.721Z'
+datePublished: '2017-02-24T17:35:49.204Z'
+dateModified: '2017-02-24T17:35:48.297Z'
 via: {}
 inFeed: true
 sourcePath: >-

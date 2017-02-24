@@ -42,13 +42,13 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/195439938'
 title: 'Fiestas de La Folía 2016 - San Vicente de la Barquera, Cantabria'
-datePublished: '2017-02-17T19:17:57.932Z'
-dateModified: '2017-02-17T19:17:33.050Z'
+datePublished: '2017-02-24T13:19:08.691Z'
+dateModified: '2017-02-24T13:18:55.721Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-14-fiestas-de-la-folia-2016-san-vicente-de-la-barquera-canta.md
 starred: false
-datePublishedOriginal: '2016-12-14T13:31:01.352Z'
+datePublishedOriginal: '2016-12-14T14:34:55.307Z'
 _type: VideoObject
 _context: 'http://schema.org'
 

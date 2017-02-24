@@ -63,8 +63,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=501n3B-aozk'
 title: Tim Norris at Fab Lab
-datePublished: '2017-02-17T19:17:50.684Z'
-dateModified: '2017-02-17T19:17:33.050Z'
+datePublished: '2017-02-24T13:19:04.450Z'
+dateModified: '2017-02-24T13:18:55.721Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-13-tim-norris-at-fab-lab.md

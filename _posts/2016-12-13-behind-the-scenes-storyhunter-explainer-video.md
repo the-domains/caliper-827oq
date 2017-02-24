@@ -64,8 +64,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=rUW8oqSGc6k'
 title: 'Behind-the-Scenes: Storyhunter Explainer Video'
-datePublished: '2017-02-24T13:19:03.009Z'
-dateModified: '2017-02-24T13:18:55.721Z'
+datePublished: '2017-02-24T14:05:19.255Z'
+dateModified: '2017-02-24T14:05:18.266Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-13-behind-the-scenes-storyhunter-explainer-video.md

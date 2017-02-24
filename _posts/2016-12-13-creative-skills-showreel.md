@@ -65,8 +65,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=lA8U6qdFLbA'
 title: creative skills showreel
-datePublished: '2017-02-24T13:58:37.409Z'
-dateModified: '2017-02-24T13:58:36.252Z'
+datePublished: '2017-02-24T14:05:19.267Z'
+dateModified: '2017-02-24T14:05:18.266Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-13-creative-skills-showreel.md

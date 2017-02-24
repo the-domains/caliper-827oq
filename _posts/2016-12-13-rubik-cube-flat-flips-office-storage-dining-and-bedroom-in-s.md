@@ -66,8 +66,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=bsZeTEt9jlc'
 title: 'Rubik cube flat flips office, storage, dining & bedroom in SF'
-datePublished: '2017-02-17T19:18:00.290Z'
-dateModified: '2017-02-17T19:17:33.050Z'
+datePublished: '2017-02-24T13:19:10.731Z'
+dateModified: '2017-02-24T13:18:55.721Z'
 via: {}
 inFeed: true
 sourcePath: >-

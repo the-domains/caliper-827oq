@@ -64,8 +64,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=FuUlDGk0VaQ'
 title: Low Sugar Fruit Experiment Starting Blood Work/Diabetes & Exercise
-datePublished: '2017-02-24T13:19:03.492Z'
-dateModified: '2017-02-24T13:18:55.721Z'
+datePublished: '2017-02-24T14:05:19.267Z'
+dateModified: '2017-02-24T14:05:18.266Z'
 via: {}
 inFeed: true
 sourcePath: >-

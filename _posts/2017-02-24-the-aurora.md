@@ -45,13 +45,13 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/channels/staffpicks/21294655'
 title: The Aurora
-datePublished: '2017-02-24T13:43:30.619Z'
-dateModified: '2016-12-15T23:38:44.918Z'
-datePublishedOriginal: '2017-02-24T13:43:30.619Z'
+datePublished: '2017-02-26T20:12:15.152Z'
+dateModified: '2017-02-26T20:12:10.569Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-02-24-the-aurora.md
+starred: false
+datePublishedOriginal: '2017-02-24T13:43:30.619Z'
 _type: VideoObject
 _context: 'http://schema.org'
 

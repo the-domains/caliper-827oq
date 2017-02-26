@@ -42,8 +42,8 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/193545335'
 title: Vídeo promocional Clàssics Arreu
-datePublished: '2017-02-24T13:19:07.242Z'
-dateModified: '2017-02-24T13:18:55.721Z'
+datePublished: '2017-02-26T20:12:15.048Z'
+dateModified: '2017-02-26T20:12:10.569Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-14-video-promocional-classics-arreu.md

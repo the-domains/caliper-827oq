@@ -46,13 +46,13 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/channels/staffpicks/35396305'
 title: Yosemite HD
-datePublished: '2017-02-24T13:27:10.836Z'
-dateModified: '2016-12-15T23:38:56.403Z'
-datePublishedOriginal: '2017-02-24T13:27:10.836Z'
+datePublished: '2017-02-26T20:12:15.169Z'
+dateModified: '2017-02-26T20:12:10.569Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-02-24-yosemite-hd.md
+starred: false
+datePublishedOriginal: '2017-02-24T13:27:10.836Z'
 _type: VideoObject
 _context: 'http://schema.org'
 

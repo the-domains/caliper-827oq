@@ -45,13 +45,13 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/channels/staffpicks/22439234'
 title: The Mountain
-datePublished: '2017-02-26T20:12:14.926Z'
-dateModified: '2017-02-26T20:12:10.569Z'
+datePublished: '2017-02-26T20:25:27.084Z'
+dateModified: '2017-02-26T20:12:46.803Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-02-26-the-mountain.md
 starred: false
-datePublishedOriginal: '2017-02-26T20:11:44.701Z'
+datePublishedOriginal: '2017-02-26T20:25:27.084Z'
 _type: VideoObject
 _context: 'http://schema.org'
 

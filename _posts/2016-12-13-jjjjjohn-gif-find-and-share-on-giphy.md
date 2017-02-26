@@ -24,8 +24,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://giphy.com/gifs/pizza-skeleton-delivery-3oriNWxJAEYUt59Ego'
 title: jjjjjohn GIF - Find & Share on GIPHY
-datePublished: '2017-02-24T13:19:10.275Z'
-dateModified: '2017-02-24T13:18:55.721Z'
+datePublished: '2017-02-26T20:12:15.115Z'
+dateModified: '2017-02-26T20:12:10.569Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-13-jjjjjohn-gif-find-and-share-on-giphy.md

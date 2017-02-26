@@ -62,8 +62,8 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/194946742'
 title: We Used to Wait
-datePublished: '2017-02-24T13:19:09.470Z'
-dateModified: '2017-02-24T13:18:55.721Z'
+datePublished: '2017-02-26T20:12:15.115Z'
+dateModified: '2017-02-26T20:12:10.569Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-13-we-used-to-wait.md

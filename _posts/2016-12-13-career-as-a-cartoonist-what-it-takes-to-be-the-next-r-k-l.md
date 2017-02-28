@@ -65,8 +65,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=n6yBZSgYgvs'
 title: 'Career As A Cartoonist: What It Takes To Be The Next R. K. Laxman'
-datePublished: '2017-02-28T02:13:46.350Z'
-dateModified: '2017-02-28T02:13:36.670Z'
+datePublished: '2017-02-28T12:54:05.217Z'
+dateModified: '2017-02-28T12:54:01.736Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-13-career-as-a-cartoonist-what-it-takes-to-be-the-next-r-k-l.md

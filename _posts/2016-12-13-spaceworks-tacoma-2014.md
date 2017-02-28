@@ -65,8 +65,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=mS8lH8MC5eo'
 title: Spaceworks Tacoma 2014
-datePublished: '2017-02-26T20:12:15.004Z'
-dateModified: '2017-02-26T20:12:10.569Z'
+datePublished: '2017-02-28T00:34:02.973Z'
+dateModified: '2017-02-28T00:34:00.472Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-13-spaceworks-tacoma-2014.md

@@ -44,8 +44,8 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/190453307'
 title: Wilderness
-datePublished: '2017-02-28T02:13:46.332Z'
-dateModified: '2017-02-28T02:13:36.670Z'
+datePublished: '2017-02-28T12:54:05.115Z'
+dateModified: '2017-02-28T12:54:01.736Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-13-wilderness.md
